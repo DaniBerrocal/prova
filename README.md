@@ -1,1 +1,1 @@
-Hola, sóc l'Àlex i he canviat el fitxer 
+Hola, sóc l'Àlex i he canviat el fitxer :)
