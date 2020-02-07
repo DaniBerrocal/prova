@@ -1,1 +1,1 @@
-Hola, he fet un canvi (alex)
+Hola, sóc l'Àlex i he canviat el fitxer 
